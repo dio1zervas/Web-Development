@@ -15,6 +15,7 @@
 
 ## WooCommerce
 ### Product setup with SKU and manage stock
+![image](https://user-images.githubusercontent.com/37002036/170582212-96e538dd-39a6-459e-a48e-0bb89f5d7bdd.png)
 ![image](https://user-images.githubusercontent.com/37002036/170581337-3e32fe04-7bdb-4edb-9524-bfbceb9ccf92.png)
 ### Store
 ![image](https://user-images.githubusercontent.com/37002036/170582092-cad9bf18-3d59-4e98-a2cd-d020bb96000d.png)
