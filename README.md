@@ -12,3 +12,11 @@
 ![image](https://user-images.githubusercontent.com/37002036/170578683-abea4597-d8c4-4771-8b20-40119f399e2e.png)
 ![image](https://user-images.githubusercontent.com/37002036/170578317-ba8cb888-793a-4508-8541-67ee5e5f1a4a.png)
 ![image](https://user-images.githubusercontent.com/37002036/170578150-19914f3e-c655-4c4e-85aa-7d0d4f361c94.png)
+
+## WooCommerce
+### Product setup with SKU and manage stock
+![image](https://user-images.githubusercontent.com/37002036/170581337-3e32fe04-7bdb-4edb-9524-bfbceb9ccf92.png)
+### Store
+![image](https://user-images.githubusercontent.com/37002036/170582092-cad9bf18-3d59-4e98-a2cd-d020bb96000d.png)
+
+
